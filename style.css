@@ -1,0 +1,26 @@
+table{
+    width: 100%;
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+th{
+    width: 33%;
+    border: 1px solid #000;
+    background: blueviolet;
+    color: pink;
+}
+td{
+    width: 33%;
+    border: 1px solid #000;
+    background: rgb(212, 138, 212);
+    color: pink;
+}
+
+form{
+    width: 100%;
+    border: 1px double black;
+    background: violet;
+}
+input{
+    background: turquoise;
+}
